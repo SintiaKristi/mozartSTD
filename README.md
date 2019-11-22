@@ -1,3 +1,3 @@
 # mozartSTD
 
-HTML mixed with Ruby, using HTML tags
+HTML mixed with Ruby, menggunakan tag HTML
